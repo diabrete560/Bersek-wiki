@@ -1,0 +1,22 @@
+.botao
+{
+ background-color:gray;
+ color:white;
+ width:187px;
+ padding:13px 29px;
+ font-size:15px; 
+ font-weight:bold;
+ text-align:center;
+ border:none;
+ text-decoration:none;
+
+ border-radius:22px;
+ opacity:0.9;
+ display:inline-block;
+}
+
+.botao:hover
+{
+ background-color:red;
+ box-shadow:0 5px red;
+}
